@@ -22,7 +22,7 @@ jobs:
         include-prerelease: true
     # 3.build
     - name: Build with dotnet
-      run: dotnet build --configuration Release
+      run: dotnet build .\BoysheO.StreamExtension\BoysheO.StreamExtension.sln  --configuration Release
     # 4.Install Nuget
     - name: Install Nuget
       run: |
