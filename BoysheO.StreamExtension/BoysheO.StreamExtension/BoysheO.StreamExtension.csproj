@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<LangVersion>latest</LangVersion>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Authors>BoysheO</Authors>
+		<Description>Provides  Stream.AsAsyncEnumerable
+
+</Description>
+		<Copyright></Copyright>
+		<PackageProjectUrl></PackageProjectUrl>
+		<RepositoryUrl>https://github.com/BoysheO/StreamExtension</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="6.0.0" />
+		<PackageReference Include="System.Buffers" Version="4.5.1" />
+	</ItemGroup>
+
+</Project>

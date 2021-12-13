@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoysheO.StreamExtension", "BoysheO.StreamExtension\BoysheO.StreamExtension.csproj", "{44B48D8B-3F09-4945-A876-55530BD34815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B48D8B-3F09-4945-A876-55530BD34815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B48D8B-3F09-4945-A876-55530BD34815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B48D8B-3F09-4945-A876-55530BD34815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B48D8B-3F09-4945-A876-55530BD34815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD03D1ED-4412-41EC-98B7-C8925F81EEA6}
+	EndGlobalSection
+EndGlobal
